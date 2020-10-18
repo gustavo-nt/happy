@@ -10,8 +10,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=node&message=12.13.1&color=339933&logo=node.js" />
-  <img src="https://img.shields.io/static/v1?label=react&message=16.13.1&color=61DAFB&logo=react" />
-  <img src="https://img.shields.io/static/v1?label=react%20native&message=39.0.1&color=0088CC&logo=reactos" />
+  <img src="https://img.shields.io/static/v1?label=html&message=5&color=61DAFB&logo=html" />
+  <img src="https://img.shields.io/static/v1?label=css&message=3&color=0088CC&logo=css" />
+  <img src="https://img.shields.io/static/v1?label=javascript&message=ecma2018&color=0088CC&logo=javascript" />
   <img src="https://img.shields.io/badge/last%20commit-october-important" />
   <img src="https://img.shields.io/badge/license-MIT-success"/>
 </p>
