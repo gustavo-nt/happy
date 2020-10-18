@@ -47,7 +47,7 @@ O Happy é uma aplicação que conecta pessoas à casas de acolhimento instituci
 ### ⚙ Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e/ou [Npm](https://www.npmjs.com/get-npm) 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e/ou [Npm](https://www.npmjs.com/get-npm). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 📗 Rodando a Aplicação (web)
