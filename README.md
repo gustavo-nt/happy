@@ -1,4 +1,4 @@
-p align="center">
+<p align="center">
   <img src="https://github.com/gabriel-nt/Happy/blob/master/web/src/images/logo-git.png" alt="logo" height="65"/>
 </p>
 
@@ -39,7 +39,7 @@ p align="center">
 
 ### 💻 Projeto
 
-O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz. Projeto desenvolvido durante a semana do Next Level Week 1ª Edição. 
+O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz. Projeto desenvolvido durante a semana do Next Level Week 3ª Edição. 
 
 ### ✅ Demonstração
 <img src="https://github.com/gabriel-nt/Happy/blob/master/web/src/images/dashboard.PNG" />
@@ -47,78 +47,42 @@ O Happy é uma aplicação que conecta pessoas à casas de acolhimento instituci
 ### ⚙ Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e/ou [Yarn](https://https://yarnpkg.com/) 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e/ou [Npm](https://www.npmjs.com/get-npm) 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-
-### 📙 Rodando o Backend
+### 📗 Rodando a Aplicação (web)
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/gabriel-nt/Happy
+$ git clone https://github.com/gustavo-nt/happy
 
 # Navegue para a pasta
-$ cd server
-
-# Execute as migrations
-$ yarn typeorm migration:run
+$ cd nlw
 
 # Instale as dependências
-$ yarn
+$ npm
 
 # Execute a aplicação
-$ yarn dev
-```
-
-### 📗 Rodando o Frontend (web)
-
-```bash
-# Navegue para a pasta
-$ cd web
-
-# Instale as dependências
-$ yarn
-
-# Execute a aplicação
-$ yarn start
-```
-
-### 📘 Rodando o Mobile
-
-```bash
-# Navegue para a pasta
-$ cd mobile
-
-# Instale as dependências
-$ yarn
-
-# Execute a aplicação
-$ yarn start
+$ npm start
 ```
 
 ### 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- ReactJS
-- React Native
-- NodeJS
-- Typescript
+- HTML5
+- CSS3
+- JavaScript
 - SqLite
-- Expo
+- NodeJs
 
 ### 📕 Bibliotecas
 
 Esse projeto foi utilizou das seguintes lib:
 
-- TypeORM
-- Axios
 - Express
-- react-native-maps
-- react-icons
-- multer
-- yup
-- react-leaflet
+- npm
+- handlebars
 - leaflet
 
 ### 📝 Licença
@@ -127,4 +91,4 @@ Esse projeto está sob a licença MIT.
 
 <hr/>
 
-Feito por Gabriel Teixeira
+Feito por Gustavo Teixeira
