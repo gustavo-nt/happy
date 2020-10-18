@@ -81,7 +81,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto foi utilizou das seguintes lib:
 
-- Express
+- express
 - npm
 - handlebars
 - leaflet
