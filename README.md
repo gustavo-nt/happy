@@ -31,11 +31,11 @@
 ### 📎 Features 
 
 - [x] Criação de Casa de Acolhimento
-- [x] Uploads de Imagens
+- [x] Anexação de imagens da Casa de Acolhimento
 - [x] Listagem de Casas de Acolhimento
 - [x] Detalhes da Casa de Acolhimento
 - [x] Atualização do cadastro da Casa de Acolhimento
-- [x] Atualização das Imagens
+- [x] Substituição ou Atualização das Imagens
 - [x] Visualização geográfica da Instituição de Acolhimento
 
 ### 💻 Projeto
