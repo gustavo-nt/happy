@@ -57,9 +57,6 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 # Clone este repositório
 $ git clone https://github.com/gustavo-nt/happy
 
-# Navegue para a pasta
-$ cd nlw
-
 # Instale as dependências
 $ npm
 
